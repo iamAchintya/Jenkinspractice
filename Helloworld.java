@@ -3,7 +3,7 @@ public  static void main (String args[])
    {
      for(int i=0; i<=10;i++)
        {
-	System.out.println("hey gysss........."+i);
+	System.out.println("hey gysss" +"good morning"........."+i);
        }
     }
                   }
